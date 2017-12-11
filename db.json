@@ -1,8 +1,17 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+    { "id": 2, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+   { "id": 3, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+     { "id": 4, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+    { "id": 5, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+   { "id": 6, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+     { "id": 7, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+    { "id": 8, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+   { "id": 10, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+     { "id": 11, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+    { "id": 12,"title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  },
+   { "id": 13, "title": "Accomodation available","description":"Accomodation available 3", price:500, "contactInfo":{email:"test@test.com,phone:"3141131146""}  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
